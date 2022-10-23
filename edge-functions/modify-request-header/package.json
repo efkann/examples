@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@vercel/examples-ui": "^1.0.2",
-    "next": "https://static-files-nuta-nuta-vercel-tests.vercel.app/next-12.3.2-canary.32.tgz",
+    "next": "canary",
     "react": "latest",
     "react-dom": "latest"
   },
